@@ -1,4 +1,4 @@
-**REQUIREMENTS**
+﻿**REQUIREMENTS**
 
 **INTRODUCTION**
 
@@ -71,6 +71,4 @@
 |`  `LLR5|GPS|Implemented|
 |`  `LLR6|LCD display|Implemented|
 |`  `LLR7|Buzzer|Implemented|
-
-
 
