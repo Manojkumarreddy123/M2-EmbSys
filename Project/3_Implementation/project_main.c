@@ -117,10 +117,4 @@ String sendData(String command, const int timeout, boolean debug)
         char c = ATmega328.read(); // read the next character.
         response+=c;
       }  
-    }
-    if(debug)
-    {
-      Serial.print(response);
-    }
-    return response;
-}
+    
